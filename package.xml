@@ -5,6 +5,13 @@
         <members>ATESTFizzBuzz</members>
         <members>AajTak11111</members>
         <members>AcC123</members>
+        <members>AccTest4</members>
+        <members>AccTest5</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AddNew__c</members>
+        <members>Add__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
